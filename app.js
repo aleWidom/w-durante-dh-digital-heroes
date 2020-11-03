@@ -6,7 +6,7 @@ const fs = require('fs')
 
 // PASO 2: Ejecución de Express
 // Recorda que express es una funcion... hay que invocarla y guardalo en una constante llamada app
-const app = express()
+const app = express();
 
 
 
