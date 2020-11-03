@@ -42,7 +42,7 @@ app.get('/', function(req,res) {
 // CONSIGNA 2
 // Ruta /heroes
 // Consigna: enviar todo el array
-<<<<<<< HEAD
+
 app.get("/heroes", (req,res) => {
   res.send(JSON.parse(heroes));
 });
